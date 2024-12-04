@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+  font-size: 50pt;
+}
+
+/* https://talwolman.github.io/ */
+
+body {
+  background-color: cornflowerblue;
+  width: 85%;
+  margin: auto auto;
+}
+
+img {
+  width: 250px;
+}
+
+section {
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: space-evenly;
+}
